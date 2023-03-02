@@ -9,7 +9,7 @@ The L293D Dual H-Bridge driver from Texas Instruments was used to control perist
 The DS18B20 thermistor from Analog Devices was used to measure the solution's temperature.
 
 ## NOTE:
-This project is currently available for portfolio purposes.
+This project is currently available for portfolio purposes and is my first PCB design that was fully built and tested.
 The codebase for this project is not currently on a public facing repository due to some outstanding changes that would need to be
 made in order to properly interface to a new cloud server.
 Additionally, there are some small hardware issues that are not currently noted anywhere. 
