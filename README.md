@@ -6,9 +6,9 @@ The TDS and pH sensors were based on schematics from [SeeedStudio](https://wiki.
 The L293D Dual H-Bridge driver from Texas Instruments was used to control peristaltic motors in order to dose solution based on the readings from  the TDS and pH sensors.
 The DS18B20 thermistor from Analog Devices was used to measure the solution's temperature.
 
-###NOTE
-This project is currently public facing for portfolio purposes.
+## NOTE:
+This project is currently available for portfolio purposes.
 The codebase for this project is not currently on a public facing repository due to some outstanding changes that would need to be
-made in order to properly interface to a new cloud server for data acquisition and storage.
+made in order to properly interface to a new cloud server.
 Additionally, there are some small hardware issues that are not currently noted anywhere. 
 (i.e. the TDS sensor connector is an incorrect part for the probe that was used).
